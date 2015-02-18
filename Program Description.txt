@@ -1,0 +1,25 @@
+This program receives some information from an user in order to calculate 
+the depreciation on an asset over a period of time.
+These entries are referent to an asset:
+-name;
+-cost;
+-salvage value(residual value); and
+-life cycle.
+
+These data will be employed to calculate two types of depreciation:
+-straight line
+(In straight line depreciation, the difference between 
+cost and salvage value is just divided by the number of years of service 
+expected.  So, if our $30,000 truck is worth $5000 after 5 years of useful
+life, then the depreciation per year is (30000 - 5000) / 5 = $5000); and
+
+-double declining balance
+(In this method, you still use purchase price and salvage value, but the 
+depreciation calculated each year is at twice the rate of straight line 
+(but not exactly twice the amount).Typically, at some point the double-declining 
+method will produce yearly depreciation amounts below straight line – but instead 
+of continuing with the declining method, at that point the straight line amount 
+is used instead.)
+
+
+  
